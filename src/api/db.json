@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "email": "arpit@test.com",
+      "name": "Arpit",
+      "password": "arpit@123",
+      "id": 1
+    },
+    {
+      "email": "arpit@test.com",
+      "password": "Qqksvw2j",
+      "name": "Arpit",
+      "id": 2
+    },
+    {
+      "email": "archit@test.com",
+      "password": "ksuhu",
+      "name": "archit",
+      "id": 3
+    },
+    {
+      "email": "test2@test.com",
+      "password": "MHA",
+      "name": "Arpit-test-2",
+      "id": 4
+    },
+    {
+      "email": "Arpit@test3.com",
+      "password": "Deku",
+      "name": "Arpit-test-3",
+      "id": 5
+    },
+    {
+      "email": "Arpit@test-2.com",
+      "password": "QRaj Comics",
+      "name": "Izuku Midoriya",
+      "id": 6
+    },
+    {
+      "email": "Arpit@test-2.com",
+      "password": "QRaj Comics",
+      "name": "Izuku Midoriya",
+      "id": 7
+    },
+    {
+      "email": "Arpit@test-2.com",
+      "password": "QRaj Comics",
+      "name": "Izuku Midoriya",
+      "id": 8
+    },
+    {
+      "email": "Arpit@test-2.com",
+      "password": "QRaj Comics",
+      "name": "Izuku Midoriya",
+      "id": 9
+    },
+    {
+      "email": "Arpit@test-2.com",
+      "password": "QRaj Comics",
+      "name": "Izuku Midoriya",
+      "id": 10
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 1111,
+      "address": "Noida Sector 50"
+    },
+    {
+      "name": "Dominos",
+      "address": "Hudson Lane",
+      "contact": 2222,
+      "id": 2
+    },
+    {
+      "name": "Sagar Ratna",
+      "address": "Gourmet Hub",
+      "contact": "5555",
+      "id": 4
+    }
+  ]
+}
